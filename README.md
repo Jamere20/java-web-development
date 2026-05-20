@@ -5,4 +5,12 @@
 - Linux command-line administration
 - JDBC/MySQL connector integration
 - Dynamic web project deployment
-- Firewall and port configuration
+## Linux and Server Administration Topics
+- RHEL installation and configuration
+- VirtualBox virtualization setup
+- Linux system administration
+- Hostname and network configuration
+- Apache Tomcat server setup
+- MySQL server installation
+- Firewall and port management
+- Enterprise development environment setup
